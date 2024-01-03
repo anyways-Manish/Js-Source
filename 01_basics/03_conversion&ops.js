@@ -48,5 +48,5 @@ console.log(stringNumber,typeof stringNumber);
 /*
 33 => "33"
 null => "null"
-//double corts means string format.
+//double quotes means string format.
 */
